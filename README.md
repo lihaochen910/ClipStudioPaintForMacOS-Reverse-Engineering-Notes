@@ -10,6 +10,19 @@
 * Planeswalker::Venser::VEActivationEngine::VerifyLicense() const也需要修改其返回值使其恒返回true
 * 接下来绕过CSP启动时的选择体验版本的界面，整个软件大体上就可以正常使用了，还有一些不完美的地方就在版本资讯窗口处显示为Unregistered
 
+## 如何使用??(萌新友好):
+* 首先在当前页面右侧Releases下面找到最新版本点进去
+![](doc/00.jpg)
+* 下载Assets下面的CLIP.STUDIO.PAINT_x86_64.zip
+![](doc/01.jpg)
+* 解压缩CLIP STUDIO PAINT.zip后得到CLIP STUDIO PAINT文件
+* 在访达中找到CLIP STUDIO PAINT.app右键显示包内容.(CLIP STUDIO PAINT.app一般路径在/Applications/CLIP STUDIO 1.5/App/CLIP STUDIO PAINT.app这里)
+![](doc/02.jpg)
+* 依次进入Contents -> MacOS, 然后将CLIP STUDIO PAINT替换为此仓库的修改版
+![](doc/03.jpg)
+* enjoy!
+
+
 ## 资源链接:
 * 文中使用的CSP版本为1.10.12, 相关资源在Releases中
 * 2021-12-14更新到1.11.6
