@@ -26,3 +26,9 @@
 ## 资源链接:
 * 文中使用的CSP版本为1.10.12, 相关资源在Releases中
 * 2021-12-14更新到1.11.6
+
+## 关于逆向工程源文件
+* 我使用Hopper Disassembler来完成逆向分析
+* 如果你想查看工程文件请访问[
+CLIP STUDIO PAINT Mac 1.11.6.hop.zip](https://drive.google.com/file/d/169KdfDPt6q-9DiPn0TVhfUtCInGE2OCL/view?usp=sharing)
+* 查看hop工程中的书签, 书签中包含一些关键的逆向信息(已添加注释)
